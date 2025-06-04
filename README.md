@@ -1,19 +1,16 @@
-Abre el proyecto y ejecuta npm install
+# Proyecto Web con Carrusel y Navegación
 
-Para correr el programa usa "npm run dev"
+Este proyecto es una aplicación web sencilla construida con Node.js y herramientas modernas del ecosistema JavaScript. Contiene navegación básica entre diferentes secciones.
 
+## para ejecutar
 
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Sgiane11a/eXAM03_dao.git
+   cd eXAM03_dao
+   npm install
+## Los enlaces disponibles son:
 
-
-El proyecto contiene 3 enlaces en donde uno de
-
-Home, muestra el un carrusel con imagenes
-
-Categorias, Muestra las distintas categorias de la pagina
-
-Contactanos Muestra el Hero Static
-
-
-
-
-<3
+Home: Muestra un carrusel de imágenes dinámico.
+Categorías: Muestra las diferentes categorías disponibles en la página.
+Contáctanos: Muestra un hero estático para contacto
